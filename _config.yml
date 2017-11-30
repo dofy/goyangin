@@ -8,24 +8,24 @@ menu:
 
 grid: 2 # change index columns /line
 logo: img/logo.jpg #logo in header
-gravatar: yourmail@mail.com #img gravatar in post
-author: g3xx #name author in post (default)
+gravatar: dofyyu@gmail.com #img gravatar in post
+author: Seven Yu #name author in post (default)
 excerpt_link: Read More #chnge text in read more in index
 thumbimg : http://lorempixel.com/640/320/city/ # default img (thumbail post) if post no image
 
 ## more need change
 disqus_shortname: goyangin # goyangin.disqus.com
-google_analytics:         # UA-83746351-2
+google_analytics: UA-88258326-1       # UA-83746351-2
 
 # if u want add more profile media social (icon same as Fontawesome)
 #  just add name ex : Instagram: https://www.instagram.com/you/
 social:
-  Github: https://github.com/you
-  Twitter: https://twitter.com/you
-  Facebook: https://facebook.com/you
-  Google-plus: https://plus.google.com/104751165505597913805
-  email: yourmail@mail.com
-  #Instagram: https://www.instagram.com/you/
+  Github: https://github.com/dofy
+  Twitter: https://twitter.com/dofy
+  Facebook: https://facebook.com/dofy
+  Google-plus: https://plus.google.com/+SevenYu
+  email: dofyyu@gmail.com
+  Instagram: https://www.instagram.com/dofyyu/
 
 # Code Highlight theme
 # Available value:
