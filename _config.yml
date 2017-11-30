@@ -14,7 +14,7 @@ excerpt_link: Read More #chnge text in read more in index
 thumbimg : http://lorempixel.com/640/320/city/ # default img (thumbail post) if post no image
 
 ## more need change
-disqus_shortname: goyangin # goyangin.disqus.com
+disqus_shortname: dofyyu # goyangin.disqus.com
 google_analytics: UA-88258326-1       # UA-83746351-2
 
 # if u want add more profile media social (icon same as Fontawesome)
@@ -22,7 +22,7 @@ google_analytics: UA-88258326-1       # UA-83746351-2
 social:
   Github: https://github.com/dofy
   Twitter: https://twitter.com/dofy
-  Facebook: https://facebook.com/dofy
+  Facebook: https://facebook.com/dofyyu
   Google-plus: https://plus.google.com/+SevenYu
   email: dofyyu@gmail.com
   Instagram: https://www.instagram.com/dofyyu/
